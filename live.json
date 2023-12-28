@@ -16,6 +16,15 @@
   ],
   "sites": [
     {
+      "key": "豆豆",
+      "name": "影视天堂",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
       "key": "南瓜",
       "name": "南瓜影视",
       "type": 3,
