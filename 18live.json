@@ -1,20 +1,17 @@
 {
     "spider": "https://raw.githubusercontent.com/lllyin/assets/master/影视.png",
     "wallpaper": "https://invalid.gq/IS8nrIwAOp7v1A",
-    "lives": [
+  "lives": [
     {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=https://ghcy.eu.org/https://raw.githubusercontent.com/ericszy525/live/main/live.txt"
-          ]
-        }
-      ],
-      "epg": "http://epg.51zmt.top:8000/api/diyp/"
+      "name": "live",
+      "type": 0,
+      "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/ericszy525/live/main/live.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
-    ],
+  ],
     "rules": [
         {
             "host": "*",
