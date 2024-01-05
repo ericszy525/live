@@ -7,7 +7,6 @@
       "type": 0,
       "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/ericszy525/live/main/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
     },
     {
       "group": "redirect",
@@ -20,7 +19,6 @@
         }
       ],
       "epg": "http://epg.51zmt.top:8000/api/diyp/"
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
     }
     ],
     "rules": [
